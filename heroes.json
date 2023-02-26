@@ -7,34 +7,22 @@
       "element": "fire"
     },
     {
-      "name": "Михаил",
-      "description": "Прокрастинировать",
+      "name": "Lemon king",
+      "description": "Выращивать лимоны. Делать лимонад",
       "element": "water",
-      "id": "bcf82fbe-ef79-407b-8a1c-8c860c7a24b6"
+      "id": "c62cf1ff-2889-4f26-bbaa-8fb878326f93"
     },
     {
-      "name": "Виктор",
-      "description": "Землю копать",
-      "element": "earth",
-      "id": "9808fa2c-6459-42aa-8e83-78ae17ddbe29"
-    },
-    {
-      "name": "Анастасия",
-      "description": "Гонять ветер среди туч",
+      "name": "Мастер критики",
+      "description": "Критиковать",
       "element": "wind",
-      "id": "9736772f-bade-41a0-bbca-06d17ed228bb"
+      "id": "fbda3ea7-c49e-4d4b-891a-2ad5164335dd"
     },
     {
-      "name": "Геннадий",
-      "description": "выращивать щучий хвост",
+      "name": "Shadow Hero",
+      "description": "скрываться в тени",
       "element": "earth",
-      "id": "dbf03629-5b13-4bf6-9219-18519053eb7d"
-    },
-    {
-      "name": "Альберт",
-      "description": "Открывать теорию относительности",
-      "element": "earth",
-      "id": "ef233671-2bed-4d80-a227-d6aa683a2b4c"
+      "id": "8cef193c-79c2-4681-b2e2-200d2b14429e"
     }
   ],
   "filters": [
