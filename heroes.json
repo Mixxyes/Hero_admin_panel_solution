@@ -1,0 +1,67 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "name": "Михаил",
+      "description": "Прокрастинировать",
+      "element": "water",
+      "id": "bcf82fbe-ef79-407b-8a1c-8c860c7a24b6"
+    },
+    {
+      "name": "Виктор",
+      "description": "Землю копать",
+      "element": "earth",
+      "id": "9808fa2c-6459-42aa-8e83-78ae17ddbe29"
+    },
+    {
+      "name": "Анастасия",
+      "description": "Гонять ветер среди туч",
+      "element": "wind",
+      "id": "9736772f-bade-41a0-bbca-06d17ed228bb"
+    },
+    {
+      "name": "Геннадий",
+      "description": "выращивать щучий хвост",
+      "element": "earth",
+      "id": "dbf03629-5b13-4bf6-9219-18519053eb7d"
+    },
+    {
+      "name": "Альберт",
+      "description": "Открывать теорию относительности",
+      "element": "earth",
+      "id": "ef233671-2bed-4d80-a227-d6aa683a2b4c"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
